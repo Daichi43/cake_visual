@@ -1,0 +1,46 @@
+@charset "UTF-8";
+title{
+    color :#800000;
+}
+img{
+    width:100%;
+}
+.logo{
+    width:10%;
+}
+h3{
+    margin : 0px;
+    padding : 0px;
+}
+#bigbox{
+    width: 1000px;
+    height: 2000px;
+}
+#cake1{
+    width:40%;
+    float:left;
+    background-color: #ffc0cb;
+    padding : 10px;
+    margin : 10px;
+}
+#cake2{
+    width:40%;
+    float:right;
+    background-color: #ffc0cb;
+    padding : 10px;
+    margin : 10px;
+}
+#cake3{
+    width:40%;
+    float:left;
+    background-color: #ffc0cb;
+    padding : 10px;
+    margin : 10px;
+}
+#cake4{
+    width:40%;
+    float:right;
+    background-color: #ffc0cb;
+    padding : 10px;
+    margin : 10px;
+}
